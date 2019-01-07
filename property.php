@@ -27,23 +27,6 @@
     <link rel="stylesheet" href="css/style.css">
   </head>
   <body>
-    <div class="top">
-    	<div class="container">
-    		<div class="row d-flex align-items-center">
-    			<div class="col">
-    				<p class="social d-flex">
-    					<a href="#"><span class="icon-facebook"></span></a>
-    					<a href="#"><span class="icon-twitter"></span></a>
-    					<a href="#"><span class="icon-google"></span></a>
-							<a href="#"><span class="icon-pinterest"></span></a>
-    				</p>
-    			</div>
-    			<div class="col d-flex justify-content-end">
-    				<p class="num"><span class="icon-phone"></span> + 1700 12345 6789</p>
-    			</div>
-    		</div>
-    	</div>
-    </div>
 
 	<?php include 'includes\navbar.html';?>
     <!-- END nav -->
@@ -53,7 +36,6 @@
       <div class="container">
         <div class="row no-gutters slider-text align-items-center justify-content-center">
           <div class="col-md-9 ftco-animate text-center">
-            <p class="breadcrumbs"><span class="mr-2"><a href="index.html">Home</a></span> <span>Property</span></p>
             <h1 class="mb-3 bread">Property</h1>
           </div>
         </div>
