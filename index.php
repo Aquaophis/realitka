@@ -27,13 +27,6 @@
     <link rel="stylesheet" href="css/style.css">
   </head>
   <body>
-    <div class="top">
-    	<div class="container">
-    		<div class="row d-flex align-items-center">    			
-    		</div>
-    	</div>
-    </div>
-
 	<?php include 'includes\navbar.html';?>
     <!-- END nav -->
 
